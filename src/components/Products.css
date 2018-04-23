@@ -1,0 +1,43 @@
+
+  .upper-content{
+    text-align: center;
+}
+
+.product-gallery{
+    margin:20px;
+    display:flex;
+    flex-flow: row nowrap;
+    justify-content: space-around;
+    border:1px solid cadetblue;
+}
+
+.product-item{
+    display:flex;
+    flex-flow: column nowrap;
+    align-items: center;
+}
+
+.lower-content{
+    display:flex;
+    flex-flow: row nowrap;
+    justify-content: space-around;
+    text-align:left;
+    margin:0 20px 0 20px;
+}
+
+.lower-content h4{
+    font-size: 24px;
+    color:cadetblue;
+}
+
+.lower-content h5{
+    font-size: 14px;
+    color:black;
+    margin:0 0 -4px 0;
+}
+
+.lower-content h6{
+    font-size: 14px;
+    color:darkgray;
+    line-height:6px;
+}

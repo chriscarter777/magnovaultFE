@@ -1,0 +1,14 @@
+.order-gallery{
+    margin:20px;
+    display:flex;
+    flex-flow: row nowrap;
+    justify-content: space-around;
+    border:1px solid cadetblue;
+}
+
+.order-item{
+    display:flex;
+    flex-flow: column nowrap;
+    align-items: center;
+
+}

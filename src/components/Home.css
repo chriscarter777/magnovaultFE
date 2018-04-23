@@ -1,0 +1,12 @@
+  .product-gallery{
+    display:flex;
+    flex-flow: row nowrap;
+    justify-content: space-around;
+}
+
+.product-item{
+    margin:20px;
+    display:flex;
+    flex-flow: column nowrap;
+    align-items: center;
+}
